@@ -11,4 +11,3 @@
 #         print(temp,": is armstrong")
 #     else :
 #         print(temp, ": is not armstrong")
-
